@@ -42,31 +42,40 @@ header {
 }
 
 .content2{
-    text-align: center;
-    padding: 30px 0;
-    height: 400px;
-    padding: 80px 25px;
+    text-align: left;
+    padding: 30px 45px;
+    height: 800px;
 }
-.visimisi {
-    padding: 12px 24px;
-    color: #F4F6F9;
-    display: inline-block;
-    border-radius: 4px;
-    text-align: center;
-    width: 80px;
-    margin: 0 auto;
-    background-color: #5E9CEA;
+
+.content2 h3 {
+    border-bottom: 4px solid #4B89DA;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+    padding-bottom: 10px;
+}
+
+.content2_isi {
+    padding-bottom: 20px;
 }
 
 .misi {
-    float: right;
+    float: left;
+    width: 33%;
+    padding-bottom: 20px;
+}
+
+.beritaberita {
+    text-align: center;
+}
+
+.berita {
+    float: left;
     width: 33%;
 }
 
-.misi p{
-    padding: 0 20px;
+img {
+    width: 330px;    
 }
-
 
 footer {
     background-color: #73B1FA;
@@ -74,5 +83,4 @@ footer {
     text-align: center;
     padding: 20px 0;
     line-height: 0.4;
-    font-size: 14px;
 }
