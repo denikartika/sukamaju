@@ -10,7 +10,7 @@ li {
 header {
     width: 100%;
     height: 70px;
-    background-color: #4B89DA;
+    background-color: #424953;
     color: #F4F6F9;
     position: fixed;
     top: 0;
@@ -21,9 +21,16 @@ header {
     float: left;
     font-size: 24px;
     font-weight: bolder;
-    padding: 20px 40px;
+    padding: 10px 30px;
+
 }
 
+.logo {
+    
+    padding: 10px 10px;
+    border-radius: 5px;
+    background-color: #646C77;
+}
 .header-list li {
     float: right;
     padding: 6px 20px;
@@ -39,6 +46,12 @@ header {
 
 .content1 h1 {
     padding-top: 250px
+}
+
+.selengkapnya {
+    padding: 10px 10px;
+    border-radius: 5px;
+    background: #4B89DA;
 }
 
 .content2{
@@ -78,9 +91,10 @@ img {
 }
 
 footer {
-    background-color: #73B1FA;
+    background-color: #646C77;
     color: #F4F6F9;
     text-align: center;
     padding: 20px 0;
     line-height: 0.4;
+    font-size: 14px;
 }
