@@ -39,7 +39,7 @@ header {
 .content1 {
     padding: 0 45px;
     height: 450px;
-    background-image: url("./foto.jpg");
+    background-image: url("./src/foto.jpg");
     background-size: cover;
     color: #F4F6F9;
 }
