@@ -33,11 +33,21 @@ header {
     background-color: #646C77;
 }
 
+.logo:hover {
+    color: #4B89DA;
+    background-color: #F4F6F9;
+}
+
 .header-list li {
     cursor: pointer;
     float: right;
     padding: 6px 20px;
 }
+
+.header-list li:hover {
+    color: #4B89DA;
+}
+
 
 .menu {
     font-size: 40px;
@@ -47,7 +57,7 @@ header {
     cursor: pointer;
 }
 
-.menu.hover {
+.menu:hover {
     color: #4B89DA;
 }
 
