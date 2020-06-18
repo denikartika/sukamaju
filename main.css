@@ -39,6 +39,18 @@ header {
     padding: 6px 20px;
 }
 
+.menu {
+    font-size: 40px;
+    display: none;
+    float: right;
+    padding: 11px 35px;
+    cursor: pointer;
+}
+
+.menu.hover {
+    color: #4B89DA;
+}
+
 .content1 {
     padding: 30px 45px;
     background-image: url("./src/foto.jpg");
