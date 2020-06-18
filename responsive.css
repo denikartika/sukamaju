@@ -1,0 +1,15 @@
+/* Untuk Tablet */
+@media all and (max-width: 1000px){
+    .berita {
+        width: 50%;
+        margin-bottom: 20px;
+    }
+}
+
+/* Untuk Smartphone */
+@media all and (max-width: 670px){
+    .berita {
+        width: 100%;
+        margin-bottom: 20px
+    }
+}
