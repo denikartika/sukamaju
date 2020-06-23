@@ -41,7 +41,7 @@ header {
 
 .searchbox {
     width: 100%;
-    display: flex;
+    position: relative;
 }
 
 .btn.btn-utama {
