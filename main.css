@@ -36,16 +36,17 @@ header {
 
 .pembungkus-searchbox {
     display: flex;
-    align-items: right;
+    align-items: center;
 }
 
 .searchbox {
-    width: 100%;
+    width: 500;
+    float: right;
 }
 
 .btn.btn-utama {
     background-color: #005B8F
-    color: white;
+    color: #4B89DA;
     text-transform: uppercase;
     font-weight: bolder;
 }
