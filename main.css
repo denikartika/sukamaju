@@ -37,10 +37,13 @@ header {
 .pembungkus-searchbox {
     display: flex;
     align-items: center;
+    width:100%;
+    float: right;
 }
 
 .searchbox {
     width: 100%;
+    float: right;
 }
 
 .btn.btn-utama {
@@ -48,6 +51,8 @@ header {
     color: #F2C808;
     text-transform: uppercase;
     font-weight: 600;
+    display: inline-block;
+    float: right;
 }
 
 
