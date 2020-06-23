@@ -34,10 +34,6 @@ header {
     display: flex;  
 }
 
-.logo img {
-    margin-right: 20px;
-}
-
 .pembungkus-searchbox {
     display: flex;
     align-items: center;
@@ -49,9 +45,9 @@ header {
 
 .btn.btn-utama {
     background-color: #15477A
-    color: #F2C808;
+    color: white;
     text-transform: uppercase;
-    font-weight: 600;
+    font-weight: 500;
 }
 
 
