@@ -23,7 +23,7 @@ header {
     font-size: 24px;
     font-weight: bolder;
     padding: 10px 30px;
-
+text-align: center;
 }
 
 .logo {
@@ -32,7 +32,7 @@ header {
     border-radius: 5px;
     background-color: #646C77;
     display: flex;  
-    text-align: center;
+    
 }
 
 .pembungkus-searchbox {
