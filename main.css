@@ -44,7 +44,7 @@ header {
     position: relative;
 }
 
-.btn.btn-utama {
+.btn-utama {
     background-color: #005B8F;
     color: #4B89DA;
     text-transform: uppercase;
