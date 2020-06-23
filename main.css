@@ -40,7 +40,6 @@ header {
     display: flex;
     align-items: center;
     text-align: center;
-    width: 75%;
     
 }
 
@@ -62,6 +61,7 @@ header {
 .logo:hover {
     color: #4B89DA;
     background-color: #F4F6F9;
+    text-align: center;
 }
 
 .header-list li {
