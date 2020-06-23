@@ -23,7 +23,7 @@ header {
     font-size: 24px;
     font-weight: bolder;
     padding: 10px 30px;
-text-align: center;
+    align-items: center;
 }
 
 .logo {
