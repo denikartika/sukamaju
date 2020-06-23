@@ -42,14 +42,14 @@ header {
 }
 
 .searchbox {
-    width: 150%;
+    width: 100%;
 }
 
 .btn.btn-utama {
     background-color: #15477A;
     color: #F2C808;
     text-transform: uppercase;
-    font-weight: 100px;
+    font-weight: 80px;
     border-radius: 4px;
     text-align: center;
 }
