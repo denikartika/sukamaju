@@ -37,8 +37,7 @@ header {
 .pembungkus-searchbox {
     display: flex;
     align-items: center;
-    border-radius: 4px;
-     text-align: center;
+    text-align: center;
 }
 
 .searchbox {
@@ -50,9 +49,7 @@ header {
     color: #F2C808;
     text-transform: uppercase;
     font-weight: 600px;
-    border-radius: 4px;
     text-align: center;
-    height: 50px
 }
 
 
