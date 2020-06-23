@@ -31,7 +31,25 @@ header {
     padding: 10px 10px;
     border-radius: 5px;
     background-color: #646C77;
+    display: flex;  
 }
+
+.pembungkus-searchbox {
+    display: flex;
+    align-items: center;
+}
+
+.searchbox {
+    width: 100%
+}
+
+.btn.btn-utama {
+    background-color: #15477A
+    color: #F2C808;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+
 
 .logo:hover {
     color: #4B89DA;
