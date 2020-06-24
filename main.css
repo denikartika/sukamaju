@@ -36,7 +36,7 @@ nav .nav-items li{
 }
 nav .nav-items li a{
   color: #fff;
-  font-size: 18px;
+  font-size: 20px;
   font-weight: 500;
   text-decoration: none;
 }
@@ -124,7 +124,7 @@ nav .search-icon{
     margin: 30px 0;
   }
   nav .nav-items li a{
-    font-size: 20px;
+    font-size: 25px;
   }
   nav form{
     position: absolute;
