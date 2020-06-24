@@ -17,8 +17,8 @@ nav{
   flex-wrap: wrap;
   align-items: center;
   justify-content: space-between;
-  height: 10px;
-  padding: 0 50px;
+  height: 70px;
+  padding: 0 100px;
 }
 nav .logo{
   color: #fff;
@@ -165,7 +165,7 @@ nav .search-icon{
     top: 50%;
     transform: translate(-50%, -50%);
   }
- nav .menu-icon{
+  nav .menu-icon{
     display: block;
   }
   nav .search-icon,
@@ -179,6 +179,11 @@ nav .search-icon{
   nav .cancel-icon.show{
     display: block;
   }
+}
+
+nav .logo.space{
+  color: red;
+  padding: 0 5px 0 0;
 }
 @media (max-width: 670px){
   nav .menu-icon,
