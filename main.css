@@ -189,10 +189,10 @@ nav .logo.space{
   nav .menu-icon,
   nav .cancel-icon,
   nav .search-icon{
-  margin: 0 35px;
+  margin: 0 20px;
   }
   nav form{
-    text-align: center;
+    position: auto;
     right: 50px;
   }
 }
