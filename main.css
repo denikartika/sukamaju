@@ -123,6 +123,7 @@ nav .search-icon{
   nav .nav-items li{
     line-height: 40px;
     margin: 30px 0;
+    text-align: center;
   }
   nav .nav-items li a{
     font-size: 20px;
