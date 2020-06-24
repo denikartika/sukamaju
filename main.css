@@ -90,12 +90,12 @@ nav .cancel-icon,
 nav .search-icon{
   display: none;
 }
-@media (max-width: 1245px) {
+@media (max-width: 1140px) {
   nav{
     padding: 0 50px;
   }
 }
-@media (max-width: 1140px){
+@media (max-width: 1000px){
   nav{
     padding: 0px;
   }
@@ -189,7 +189,7 @@ nav .search-icon{
     right: 30px;
   }
 }
-@media (max-width: 350px){
+@media (max-width: 670px){
   nav .menu-icon,
   nav .cancel-icon,
   nav .search-icon{
