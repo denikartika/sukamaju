@@ -1,5 +1,7 @@
 body {
     margin: 0;
+    padding: 0;
+    box-sizing: border-box;
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
@@ -101,7 +103,7 @@ nav .search-icon{
     text-align: center;
   }
   nav .nav-items{
-    position: fixed;
+    position: flex;
     z-index: 99;
     top: 70px;
     width: 100%;
