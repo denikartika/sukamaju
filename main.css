@@ -179,7 +179,7 @@ nav .search-icon{
     display: block;
   }
 }
-@media (max-width: 980px){
+@media (max-width: 670px){
   nav .menu-icon,
   nav .cancel-icon,
   nav .search-icon{
@@ -189,7 +189,7 @@ nav .search-icon{
     right: 30px;
   }
 }
-@media (max-width: 670px){
+@media (max-width: 350px){
   nav .menu-icon,
   nav .cancel-icon,
   nav .search-icon{
