@@ -10,7 +10,21 @@
     </head>
     <body>
       <nav>
-       const menuBtn = document.querySelector(".menu-icon span");
+      <div class="menu-icon"&#x2261>
+          <span class="fas fa-bars"></span></div>
+       <div class="logo">
+             SD SUKAMAJU</div>
+        <div class="nav-items">
+        <div class="search-icon">
+          <span class="fas fa-search"></span></div>
+        <div class="cancel-icon">
+           <span class="fas fa-times"></span></div>
+        <form action="#">
+         <input type="search" class="search-data" placeholder="Search" required>
+         <button type="submit" class="fas fa-search"></button>
+        </form>
+    </nav>
+    const menuBtn = document.querySelector(".menu-icon span");
     const searchBtn = document.querySelector(".search-icon");
     const cancelBtn = document.querySelector(".cancel-icon");
     const items = document.querySelector(".nav-items");
