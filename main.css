@@ -231,7 +231,6 @@ nav .search-icon{
 .content1 {
     padding: 30px 45px;
     background-image: url("./src/foto.jpg");
-    opacity: 0.2;
     background-size: cover;
     color: #F4F6F9;
 }
