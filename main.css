@@ -219,18 +219,17 @@ nav .search-icon{
         display: block;
     }
 }
-@media screen and (max-width: 415px){
+@media screen and (max-width: 415px) {
   nav .menu-icon,
   nav .cancel-icon,
   nav .search-icon{
     margin: 0 5px;
     font-size: 15px;  
   }
-  nav .logo{
+  nav .logo {
     font-size: 20px;
-    flex: 2;
   }
-}
+} 
 
 .content1 {
     padding: 30px 45px;
